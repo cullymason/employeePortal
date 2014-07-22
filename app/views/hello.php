@@ -8,9 +8,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <base href="/" />
-
+    <link href='http://fonts.googleapis.com/css?family=Audiowide' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" href="assets/vendor.css">
     <link rel="stylesheet" href="assets/employee-portal.css">
+
   </head>
   <body>
     <script>
