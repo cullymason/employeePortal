@@ -1,3 +1,6 @@
+body {
+	background : rgba(0,0,0,.04);
+}
 .section-header {
 	text-transform: uppercase;
 	font-family: arial;
